@@ -1,6 +1,7 @@
 # Plus
 
 - remove "type": "module"
+- 使用 tsc 构建
 
 # yocto-queue [![](https://badgen.net/bundlephobia/minzip/yocto-queue)](https://bundlephobia.com/result?p=yocto-queue)
 
